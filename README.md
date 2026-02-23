@@ -4,6 +4,8 @@ A remote [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server 
 
 Users authenticate via Entra ID. The Function App's Managed Identity authenticates directly to Azure DevOps — no PATs, no shared service accounts, no client secrets.
 
+Blog Link - [Blog](https://connorokane.io/blog/building-a-secure-mcp-server-with-azure-functions-+-easyauth/)
+
 ## Features
 
 - **4 MCP tools** for Azure DevOps Pipelines: list runs, get failure logs, list deployments, trigger runs
