@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"ado-functions-mcp": {
+			"url": "https://<FUNCTION_APP_NAME>.azurewebsites.net/runtime/webhooks/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}

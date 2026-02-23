@@ -1,0 +1,4 @@
+subscription_id       = "00000000-0000-0000-0000-000000000000"
+azure_devops_org      = "your-ado-org"
+azure_devops_projects = ["YourProject"]
+admin_user_object_ids = ["00000000-0000-0000-0000-000000000000"]
